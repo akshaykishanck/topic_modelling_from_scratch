@@ -1,0 +1,18 @@
+{   "main_data_path": "data/",
+    "plots_path": "plots/",
+    "runs": 30,
+    "number_of_iterations": 300,
+    "dataset": "20newsgroups",
+    "hyper_parameters": {
+        "artificial": {
+            "number_of_topics": 2,
+            "alpha": 2.5,
+            "beta": 0.01
+        },
+        "default": {
+            "number_of_topics": 20,
+            "alpha": 0.25,
+            "beta": 0.01
+        }
+    }
+}
