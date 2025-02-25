@@ -49,7 +49,7 @@ python main.py
 ```
 All the plots will be saved in the plots folder and the top 10 words per topic will be saved in topic_words.csv
 
-📝 Notes
+📝 Notes \
 Please make use of the config.json file to design your experiment. It comes with the following parameters
 ```
 {   "main_data_path": "data/", # folder where you should be storing your data (documents)
